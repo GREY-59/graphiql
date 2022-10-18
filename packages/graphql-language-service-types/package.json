@@ -28,7 +28,7 @@
     "graphql": "^15.5.0 || ^16.0.0"
   },
   "dependencies": {
-    "graphql-config": "^4.1.0"
+    "graphql-config": "^4.2.0"
   },
   "devDependencies": {
     "graphql": "16.0.0-experimental-stream-defer.5",
