@@ -35,7 +35,7 @@
     "graphql-language-service": "^3.2.4",
     "graphql-language-service-server": "^2.7.6",
     "graphql-language-service-utils": "^2.6.3",
-    "yargs": "^16.2.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "graphql": "16.0.0-experimental-stream-defer.5"
