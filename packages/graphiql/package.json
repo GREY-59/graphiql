@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@graphiql/toolkit": "^0.4.2",
-    "codemirror": "^5.58.2",
+    "codemirror": "^6.0.0",
     "codemirror-graphql": "^1.2.4",
     "copy-to-clipboard": "^3.2.0",
     "dset": "^3.1.0",
