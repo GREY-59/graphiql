@@ -45,7 +45,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@mdx-js/react": "^1.5.2",
-    "@theme-ui/core": "^0.4.0-alpha.1",
+    "@theme-ui/core": "^0.6.0",
     "copy-to-clipboard": "^3.2.0",
     "entities": "^2.0.0",
     "graphql-language-service": "^3.2.4",
